@@ -1,0 +1,21 @@
+h1{
+	background-color: #989898;
+	text-align: center;
+	margin:0;
+	padding: 1em 2em 0.5em 3em;
+}
+
+a{
+	background-color: black;
+	display: block;
+}
+
+nav{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+ul{
+	list-style-type: none;
+}
